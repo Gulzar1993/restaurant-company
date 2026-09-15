@@ -5,7 +5,7 @@ Bella Vista Italian Kitchen is a modern, premium, fully responsive React applica
 ## Features
 
 - **Elegant Design**: Implements a luxury brand style using a specific color palette (Deep Burgundy, Cream, Olive Green, Gold, Charcoal).
-- **Responsive Layout**: Fully mobile-friendly with a hamburger menu and responsive grid designs.
+- * Layout**: Fully mobile-friendly with a hamburger menu and responsive grid designs.
 - **Dynamic Menu**: Over 40 handcrafted mock menu items with extensive filtering (Category, Vegetarian, Vegan, Gluten-Free, Spicy, Price) and sorting options.
 - **Online Ordering**: A fully functional shopping cart using React Context and `localStorage`, complete with a multi-step checkout flow.
 - **Reservations & Catering**: Mock forms for table reservations and private event catering inquiries.
